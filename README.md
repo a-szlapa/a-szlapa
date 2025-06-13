@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**a-szlapa/a-szlapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aleksy Szłapa.
+I'm a young programmer and i write code to solve problems.
+<p align="center">
+  <h2>Technologies</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,html,react,js,ts,css,tailwind,vscode,python,django" />
+  </a>
+</p>
+<div>
+  <h2>GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=jakbrn&show_icons=true&hide=stars&theme=react&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakbrn&theme=react&show_icons=true&hide_border=true&layout=compact" height="180" />
+</div>
