@@ -1,5 +1,5 @@
 ## Aleksy Szłapa.
-I'm a young programmer and i write code to solve problems.
+I'm a begginer programmer and i solve problems with code.
 <p align="center">
   <h2>Technologies</h2>
   <a href="https://skillicons.dev">
